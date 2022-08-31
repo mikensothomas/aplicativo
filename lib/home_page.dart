@@ -8,7 +8,7 @@ class HomePage extends StatefulWidget {
 }
 
 class HomePageState extends State<HomePage> {
-  int counter = 0;
+  int counter = 1;
 
   @override
   Widget build(BuildContext context) {
